@@ -16,6 +16,4 @@ Refine: entry 1
 
 Refine: entry 1.1
 
-Refine: etnry 2
-
-Refine: random
+Refine: entry 2
