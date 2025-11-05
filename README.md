@@ -11,3 +11,7 @@ For Github, first create repository.
 Then, offline folder can be added via git remote add origin https://github.com/ashsong/repo_name.git
 
 git push --set-upstream origin main
+
+---
+
+Refine: entry 1
