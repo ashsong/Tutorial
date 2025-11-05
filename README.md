@@ -4,8 +4,6 @@
 - [X] Make our first commit
 - [X] Fix this typo
 
-
-
 For Github, first create repository.
 
 Then, offline folder can be added via git remote add origin https://github.com/ashsong/repo_name.git
@@ -19,3 +17,5 @@ Refine: entry 1
 Refine: entry 1.1
 
 Refine: etnry 2
+
+Refine: random
