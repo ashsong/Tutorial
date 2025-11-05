@@ -3,3 +3,11 @@
 - [X] Create a new file
 - [X] Make our first commit
 - [X] Fix this typo
+
+
+
+For Github, first create repository.
+
+Then, offline folder can be added via git remote add origin https://github.com/ashsong/repo_name.git
+
+git push --set-upstream origin main
